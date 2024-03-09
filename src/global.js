@@ -1,1 +1,1 @@
-export const API = "https://backend-red-rho.vercel.app"
+export const API = "https://backenddeploy-ruddy.vercel.app"
